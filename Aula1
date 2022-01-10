@@ -3,3 +3,5 @@ create database cadastro;
 tipos primitivos: numero, data/tempo, literal e espacial;
 Melhorando a estrutura do banco de dados;
 Inserindo dados na tabela(insert to);
+Alterando a extrutura da tabela(alter table e drop table);
+Manipulando registros(Update, Delete e Truncate)
